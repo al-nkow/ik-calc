@@ -8,7 +8,6 @@ import Portiere from './components/Portiere';
 import Tulle from './components/Tulle';
 import Cornice from './components/Cornice';
 
-
 const Container = styled.div`
   max-width: 800px;
   margin: 0 auto;
