@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ik-calc/static/css/main.fdf29775.chunk.css",
+    "main.js": "/ik-calc/static/js/main.1aa43d58.chunk.js",
+    "main.js.map": "/ik-calc/static/js/main.1aa43d58.chunk.js.map",
+    "runtime-main.js": "/ik-calc/static/js/runtime-main.86da6d78.js",
+    "runtime-main.js.map": "/ik-calc/static/js/runtime-main.86da6d78.js.map",
+    "static/js/2.163837d5.chunk.js": "/ik-calc/static/js/2.163837d5.chunk.js",
+    "static/js/2.163837d5.chunk.js.map": "/ik-calc/static/js/2.163837d5.chunk.js.map",
+    "index.html": "/ik-calc/index.html",
+    "precache-manifest.f04995b3130e30105cc6241474e330b0.js": "/ik-calc/precache-manifest.f04995b3130e30105cc6241474e330b0.js",
+    "service-worker.js": "/ik-calc/service-worker.js",
+    "static/css/main.fdf29775.chunk.css.map": "/ik-calc/static/css/main.fdf29775.chunk.css.map",
+    "static/js/2.163837d5.chunk.js.LICENSE.txt": "/ik-calc/static/js/2.163837d5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ik-calc/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86da6d78.js",
+    "static/js/2.163837d5.chunk.js",
+    "static/css/main.fdf29775.chunk.css",
+    "static/js/main.1aa43d58.chunk.js"
+  ]
+}
